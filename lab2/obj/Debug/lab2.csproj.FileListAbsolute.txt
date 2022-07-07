@@ -1,0 +1,31 @@
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Dave\source\repos\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Dave\source\repos\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Dave\source\repos\lab2\lab2\obj\Debug\lab2.pdb
+D:\Archives\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Archives\lab2\lab2\lab2\bin\Debug\lab2.exe
+D:\Archives\lab2\lab2\lab2\bin\Debug\lab2.pdb
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.exe
+D:\Archives\lab2\lab2\lab2\obj\Debug\lab2.pdb
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\bin\Debug\lab2.exe.config
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\bin\Debug\lab2.exe
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\bin\Debug\lab2.pdb
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.Form1.resources
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.exe
+W:\GitHub\6 Поиск буквы в строке\lab2\lab2\obj\Debug\lab2.pdb
